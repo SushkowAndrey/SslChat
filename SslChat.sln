@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslTcpServer", "SslTcpServer\SslTcpServer.csproj", "{705BD093-313B-417D-A2BD-8E8B5CB32C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslTcpClient", "SslTcpClient\SslTcpClient.csproj", "{BC84B11E-E426-415D-ABB7-B46ECCCC1C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705BD093-313B-417D-A2BD-8E8B5CB32C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705BD093-313B-417D-A2BD-8E8B5CB32C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705BD093-313B-417D-A2BD-8E8B5CB32C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705BD093-313B-417D-A2BD-8E8B5CB32C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC84B11E-E426-415D-ABB7-B46ECCCC1C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC84B11E-E426-415D-ABB7-B46ECCCC1C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC84B11E-E426-415D-ABB7-B46ECCCC1C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC84B11E-E426-415D-ABB7-B46ECCCC1C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
